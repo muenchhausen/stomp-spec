@@ -73,6 +73,10 @@ table.clients
       * [stomp.py](http://code.google.com/p/stomppy/)
       * [stompest](https://github.com/nikipore/stompest)
 
+  - language("Tcl")
+    :markdown
+      * [tStomp](https://github.com/siemens/tstomp)
+
 :markdown
   # STOMP 1.0 Servers
 
